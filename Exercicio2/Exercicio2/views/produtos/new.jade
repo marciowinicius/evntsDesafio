@@ -1,0 +1,16 @@
+extends ../layout
+
+block content
+	h1.
+		#{title}
+	form#formAddProduto(name="addproduto",method="post",action="/produtos")
+		p Nome: 
+			input#inputNome(type="text", required="true", placeholder="Fuzz Cardigan", name="nome")
+		p Categoria:
+			input#inputCategoria(type="text", required="true", placeholder="Saia", name="categoria")
+		p Data: 
+			input#inputData(type="date", required="true", name="data")
+		p Preco: 
+			input#inputPreco(type="number", required="true", name="preco")
+		p
+			button#btnSubmit(type="submit") submit

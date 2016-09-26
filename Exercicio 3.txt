@@ -1,0 +1,17 @@
+Exercicio 3.1 -
+		Crawler é o ato de espiar algo para fazer mapeamentos de informações e utilizá-las a seu favor
+		Neste exercício irei utilizar a loja da C&A, uma loja de venda de vestuários(moda) assim como
+		o novo empreendimento de L.
+
+		Informações do crawler:
+		1 - Assim que entramos no site da C&A, já nos deparamos com uma notícia que na primeira compra
+		ganharemos um desconto de R$ 10,00.
+		2 - Na aba de promoções do site possui alguns moletons femininos que estão com desconto de 33%
+		chegando a custar 34,90 um moletom.
+		3 - Na C&A eles vendem Conjuntos de roupas onde eles julgam que estão na moda.
+		4 - Na C&A no site sempre mostram as tendências do momento, por exemplo hoje(25/09) a tendência
+		são roupas com listras.
+		
+Exercicio 3.2 -
+		A melhor ferramenta de testes que encontrei foi o mochaJS onde sua documentação é muito boa
+		em conteúdo, a ferramenta é meio chata de se usar mas eu tentei.

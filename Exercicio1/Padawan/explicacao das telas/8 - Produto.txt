@@ -1,0 +1,4 @@
+Nesta tela teremos todas as informações do produto,
+esta tela é chamada logo após o usuário clicar em algum produto
+na tela de listagem dos produtos.
+Esta tela está em HTML na raiz da modelagem do sistema.

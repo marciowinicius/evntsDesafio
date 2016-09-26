@@ -1,0 +1,19 @@
+Esta tela será a tela principal da nossa modelagem de sistema.
+Como você deve ter percebido, eu escolhi fazer um e-commerce de
+uma marca de roupa feminina, ou seja, Light Lawliet teve uma idéia
+que valesse a pena desta vez.
+
+Bom nesta tela temos o header que se repete na maior parte das outras telas
+neste header temos os menus que redirecionam para as suas respectivas páginas.
+
+Nesta tela tbm temos um banner rotativo que pode mostrar promoções ou eventos
+seja lá oque L quiser.
+
+Temos as lista de menus dos produtos que L vende, junto com um buscador,
+que buscará pelo nome do produto digitado no campo.
+
+Temos também os produtos em destaques dentro de boxes logo em baixo,
+estes boxes trazem os produtos dinamicamente que foram cadastrados no banco de dados.
+
+Lá no final temos o footer que também se repete na maior parte das telas,
+neste footer temos redirecionamentos para páginas(facebook, twitter, google) da L Shopping.

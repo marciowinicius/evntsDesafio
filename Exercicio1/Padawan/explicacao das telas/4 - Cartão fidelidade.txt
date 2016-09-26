@@ -1,0 +1,6 @@
+Podemos implementar no e-commerce um cartão, igual algumas lojas no Brasil possuem,
+onde o cliente pode ir até a loja e comprar com o cartão da loja, basta enviar
+algumas informações que precisemos para aprovar o cadastro do cartão .
+Aqui temos uma ressalva, que podemos desenvolver um painel de gestão de todos os
+dados que o usuário enviar-nos, principalmente para esta funcionalidade, pois olhar
+informações diretamente no banco de dados é bem trágico.

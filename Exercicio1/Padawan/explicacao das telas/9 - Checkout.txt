@@ -1,0 +1,16 @@
+Nesta tela é onde o usuário enviará informações para poder fazer o pagamento
+do produto, nesta tela teremos dois módulos. Um módulo para pagamento de um
+único produto. Como assim ? O usuário fazer a seguinte rota :
+1 - Usuário está na tela de listagem de produtos e clica em um produto.
+2 - O usuário escolhe o tamanho e cor.
+3 - Ele será redirecionado para a página de finalização de pagamento assim ele pagará
+somente aquele produto.
+
+O outro módulo seria quando o usuário quer finalizar a compra de sua lista
+de desejos.
+
+O sistema teria integração de pagamentos com PAGSEGURO, ou qualquer outro
+sistema de pagamento online.
+
+O sistema verificaria a autenticidade de todos os dados informados, se tudo
+estiver nos conformes a compra do produto/produtos é aprovada.

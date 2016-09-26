@@ -1,0 +1,21 @@
+Olá pra quem irá ler este código ... Vou ganhar no ping pong de você em breve ... kkk .
+Brincadeiras a parte vamos ao que interessa.
+
+Algumas considerações que deve levar deste exercício.
+Fiz algumas telas com html/css/js as que julguei serem mais fáceis de serem feitas.
+Utilizei um pouco de Bootstrap para me ajudar e tentei deixar o mais responsivo possível.
+As outras telas fiz o layout em psd e converti para JPEG(eu não sou um bom designer só sei codar).
+Por que eu fiz isso ? Eu startei as atividades era umas 13H do sábado(24/09). E estou aqui às 
+04:32 da madrugada de domingo ainda no primeiro desafio e olha que sei muito pouco de NodeJS e MongoDB
+para o segundo exercício.
+Então decidi fazer somente as imagens das outras telas que faltaram para ficar um pouco mais 
+rápido meu trabalho, as imagens estão em um diretório chamado "imagens das telas".
+
+Criei um outro diretório para a explicação das telas e de quais funcionalidades elas teriam.
+O diretório é "explicacao das telas", onde encontrará arquivos txt com as funcionalidades.
+
+As imagens utilizadas para os produtos eu fui pegando na internet ...
+Como é um exercício espero não ter problemas com isso.
+
+Atenciosamente,
+Márcio Winicius R. Amaral.

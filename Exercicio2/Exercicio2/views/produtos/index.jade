@@ -1,0 +1,25 @@
+extends ../layout
+
+block content
+    h1.
+         #{title}
+    #content
+        .block
+            a(href="/produtos/new") Adicionar novo produto
+    ul
+        - each produto, i in produtos
+            li
+                p Nome: #{produto.nome}
+                p Categoria: #{produto.categoria}
+                p Data: #{produto.data}
+                p Preco: #{produto.preco}
+                form(action='/produtos/#{produto._id}/edit',method='post',enctype='application/x-www-form-urlencoded')
+                    input(type='hidden',value='DELETE',name='_method')
+                    button(type='submit').
+                        Delete
+                p 
+                    a(href='/produtos/#{produto._id}/edit') Editar
+                p
+                    a(href='/produtos/#{produto._id}') Mostrar esse produto
+                p
+                    a(href='/produtos/#{produto.categoria}') Mostrar todos desta categoria

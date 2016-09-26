@@ -1,0 +1,26 @@
+Comandos utilizados:
+
+express nodewebapp  --> para criar o projeto nodewebapp
+use nodewebappdb  --> para criar o banco no mongo
+npm install  --> no diretório raiz para instalar as dependências
+npm install mongoose --save 
+npm install body-parser --save
+npm install method-override --save
+npm start  --> para testar o aplicativo
+
+Comandos para testar o app:
+npm install
+npm start
+
+Algumas considerações sobre este exercício. Eu literalmente comecei
+a me aprofundar em NodeJS quando comecei a fazer este exercício,
+eu nunca tinha utilizado NodeJS em nenhum lugar e tudo oque consegui
+fazer neste exercício foi pesquisando em fóruns e tudo mais 
+(StackOverflow principalmente). Não consegui fazer listar por categoria,
+ainda não sou um JEDI em nodeJS, mas só pelo oque eu estudei durante
+este curto prazo de tempo, já vi que é uma ótima ferramenta e 
+que tem uma comunidade bastante rica em conteúdo, por mais que
+eu não seja selecionado para o estágio, continuarei estudando sobre
+esta tecnologia para futuramente implementar em novos projetos.
+
+ROTA PRINCIPAL -> localhost:3000/produtos

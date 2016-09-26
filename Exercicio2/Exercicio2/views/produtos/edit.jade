@@ -1,0 +1,19 @@
+extends ../layout
+
+block content
+	h1.
+		Produto ID #{produto._id}
+	form(action='/produtos/#{produto._id}/edit',method='post',nome='updateproduto',enctype='application/x-www-form-urlencoded')
+		p Nome:
+			input#inputNome(type='text', value='#{produto.nome}', nome='nome')
+		p Categoria:
+			input#inputCategoria(type='text', value='#{produto.categoria}', nome='categoria')
+		p Data:
+			input#inputData(type='date', value='#{produto.data}', nome='data')
+		p Preco:
+			input#inputPreco(type='number', value='#{produto.preco}', nome='preco')
+		p
+			input(type='hidden',value='PUT',nome='_method')
+		p
+			button#btnSubmit(type='submit').
+				Update

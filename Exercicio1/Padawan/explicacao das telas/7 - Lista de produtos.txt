@@ -1,0 +1,3 @@
+Nesta tela trazemos todos os produtos relacionados à categoria que o usuário clicou
+no menu ao lado <<<. Caso clique em saias, traremos todos os produtos que estão
+classificados como 'saia' no banco de dados.

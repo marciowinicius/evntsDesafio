@@ -1,0 +1,6 @@
+Nesta tela ficam todos os produtos que o usuário cogitou comprar no site
+mas como salvar estes dados ? Na maioria dos e-commerce relacionado a modas
+quando um usuário chega até a tela de pagamento do sistema, isso que dizer 
+que ele desejou aquele produto. Então assim que o usuário chegar até à parte
+de pagamento de um determinado produto, este produto será salvo em sua lista
+de desejos.

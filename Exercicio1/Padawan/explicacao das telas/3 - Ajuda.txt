@@ -1,0 +1,6 @@
+Nesta tela o usuário que possui alguma dúvida, sugestão ou reclamação,
+ele preencherá um formulário com alguns campos, e ao apertar enviar
+o formulário envia um email onde L poderá ver a mensagem que o usuário
+gostaria de dizer à ele ou sobre oque ele precisa.
+Afinal saber a opnião do usuário ou saber de problemas que está ocorrendo
+com o sistema é muito importante.
